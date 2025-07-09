@@ -6,3 +6,21 @@
   max-width: 1600px;
   margin: 0 auto;
 }
+
+.content {
+  padding: 20px;
+}
+
+/* Secciones (puedes dejar vacías por ahora) */
+.intro {
+}
+
+.recipes {
+}
+
+.reservation {
+}
+
+.membership {
+}
+
